@@ -64,4 +64,4 @@ Whenever
 
 The basic wisper protocol is extended by an object protocol that allows Class like behaviour with constructors, destructors, instance methods and events.
 
-[Wisper Object Protocol](./OBJECT_PROTOCOL.md)
+[Wisper Object Protocol](./OBJECT_EXTENSIONS.md)
