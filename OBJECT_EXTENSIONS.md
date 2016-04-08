@@ -1,10 +1,12 @@
-# Wisper Object Protocol -Extends Wisper Protocol-
+# Wisper Object Protocol - `Extends Wisper Protocol`
 
 Extends the wisper protocol to allow the emulation of classes and instances. You are responsible for the whole life cycle of the instances you create so you need to clean up after yourself by destroying what you create.
 
 ### Constructor Call
 
-Create an instance of the Class `Foo`. Create messages are identified by the special character `~` (tilde) right after a path component that starts with a capital character.
+Create an instance of the Class `Foo`. Create messages are identified by the special character `~` (tilde) right after a path component that starts with a capital character. 
+
+The wisper protocol also supports parameters to the constructors should you need it.
 
 Allowed message types: [ `Request` ]
 
