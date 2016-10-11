@@ -65,7 +65,7 @@ If we for some reason run into problems when handling a request we can return an
 }
 ```
 
-# Wisper Object Protocol -Extends Wisper Protocol-
+# Wisper Object Protocol `Extends Wisper Protocol`
 
 The basic wisper protocol is extended by an object protocol that allows Class like behaviour with constructors, destructors, instance methods and events.
 
